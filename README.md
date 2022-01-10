@@ -1,16 +1,38 @@
-### Hi there 👋
+### Fala Galera!
 
-<!--
-**EnzoTironi/EnzoTironi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-Here are some ideas to get you started:
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```kotlin
+object **SEU NOME** {
+ val name = "Enzo Figueiredo Tironi"
+ val acknowledgements = "Engenharia de Computação"
+ 
+ val primarySkillset = "Desenvolvedor Full-Stack"
+ val languages = listOf("HTML", "CSS", "Javascript","Node.js", "C++", "Python", "SQL") 
+
+}
+```
+
+
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Tironicode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tironicode&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Tironicode">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=tironicode&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+[website]: https://enzotironi.org
+[instagram]: https://www.instagram.com/enzotironi/
+[linkedin]: https://www.linkedin.com/in/enzotironi/
+<br>
+
+#### Rede Sociais!
+
+🏡 [website][website] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
