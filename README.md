@@ -7,10 +7,9 @@
 ```kotlin
 object **SEU NOME** {
  val name = "Enzo Figueiredo Tironi"
- val acknowledgements = "Engenharia de Computação"
+ val acknowledgements = "Engenharia de Software"
  
  val primarySkillset = "Desenvolvedor Full-Stack"
- val languages = listOf("HTML", "CSS", "Javascript","Node.js", "C++", "Python", "SQL") 
 
 }
 ```
